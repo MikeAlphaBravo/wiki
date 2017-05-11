@@ -1,0 +1,27 @@
+.sidebar {
+  width: 160px;
+  height: 1740px;
+  float: left;
+  background-color: #E8E2E0;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  color: blue;
+  padding-left: 16px;
+  padding-top: 5px;
+}
+
+.sidebar p {
+  margin: 0px;
+  padding-top: 25px;
+  padding-left: 16px;
+}
+
+.nobox {
+  margin: 0px;
+  padding: 0px;
+  border-bottom: 1px;
+  border-color: #6C6867;
+  border-bottom-style: solid;
+}
