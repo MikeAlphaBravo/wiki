@@ -25,3 +25,25 @@
   border-color: #6C6867;
   border-bottom-style: solid;
 }
+
+hr {
+  width: 80%;
+}
+
+.container {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.lefty {
+  float: left;
+  max-width: 140px;
+}
+
+.righty {
+  text-align: right;
+}
+
+.inline {
+  display: inline;
+}
