@@ -42,6 +42,8 @@ hr {
 
 .righty {
   text-align: right;
+  float: right;
+  max-width: 140px;
 }
 
 .inline {
